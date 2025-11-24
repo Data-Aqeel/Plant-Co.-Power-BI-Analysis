@@ -97,6 +97,6 @@ The dashboard is designed to support quick decisions with clarity and depth.
 
 ## **📎 Dashboard Snapshot**
 
-![Dashboard Screenshot](/mnt/data/Power Bi Dashboard Snapshot.png)
+![Dashboard Screenshot](https://github.com/Data-Aqeel/Plant-Co.-Power-BI-Analysis/blob/main/Power%20Bi%20Dashboard%20Snapshot.png)
 
 
